@@ -20,8 +20,8 @@ Follow these steps to set up the Real-Time Object Detection project:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/real-time-object-detection.git
-cd real-time-object-detection
+git clone https://github.com/mathivanan001/ai-Object_detection.git
+cd ai-Object_detection
 ```
 
 ### Create and Activate a Virtual Environment
